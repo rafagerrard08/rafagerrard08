@@ -3,11 +3,11 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sou Rafael</h1>
-<p align = "justify"> QA e Front-end Developer, com café é ótimo, sou fã de JavaScript e adoro utilizar a linguagem Ruby.</p> 
+<p align = "justify"> QA e Front-end Develope. Sou fã de JavaScript e adoro utilizar a linguagem Ruby.</p> 
 
 
 
-Eu estou aprendendo **React, Spring Boot.**
+Eu estou aprendendo **ReactJS, .NET e C#.
 
 ## Sobre mim  👋
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ferraz-cardoso-miranda-6003047a/)](https://www.linkedin.com/in/rafael-ferraz-cardoso-miranda-6003047a/)
