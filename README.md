@@ -7,7 +7,7 @@
 
 
 
-Eu estou aprendendo **ReactJS, .NET e C#.
+Eu estou aprendendo **ReactJS, .NET e C#**.
 
 ## Sobre mim  👋
 [![Linkedin Badge](https://img.shields.io/badge/-rafaelferraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ferraz-cardoso-miranda-6003047a/)](https://www.linkedin.com/in/rafael-ferraz-cardoso-miranda-6003047a/)
