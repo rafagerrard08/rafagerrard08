@@ -3,7 +3,7 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Sou Rafael</h1>
-<p align = "justify"> QA e Front-end Develope. Sou fã de JavaScript e adoro utilizar a linguagem Ruby.</p> 
+<p align = "justify"> QA e Front-end Developer. Sou fã de JavaScript e adoro utilizar a linguagem Ruby.</p> 
 
 
 
